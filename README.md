@@ -17,15 +17,17 @@ Additional design decisions include the use of **ENUM types** and optional field
 
 ## 🛠 Technologies  
 - MySQL  
-- MySQL Workbench  
+- MySQL Workbench
+- XAMPP
+- MAMP
 
 ## 📂 Project Structure
-- `model.mwb` >> Database model  
-- `schema.sql` >> SQL script  
+- `pizzaStoreGraphicSchema.png` >> Database model schema
+- `pizzaStoreScript.sql` >> SQL script  
 - `README.md` >> Documentation  
 
 ## 📸 Demo  
-Open the `.mwb` file in MySQL Workbench to visualize the schema.
+Open the `.png` file in MySQL Workbench to visualize the schema.
 
 ## 🚀 Installation  
 1. Clone the repository  
